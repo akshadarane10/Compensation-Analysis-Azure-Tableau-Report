@@ -36,7 +36,7 @@ There has been increasing trend in Employees covered in Benefits (Bivariate Anal
 # Insights:
 Sudden drop in Health & dental Benefits in 2022 might be because of Covid-19
 
-For more much hypothesis and insights refer attached pdf.......
+For more much hypothesis and insights refer attached pdf
 
 
 
